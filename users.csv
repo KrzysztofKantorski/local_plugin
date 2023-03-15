@@ -1,5 +1,0 @@
-username,email,firstname,lastname,employee_number,organizational_unit,position
-user1,user1@example.com,User1,First,1,5,Web Developer
-user2,user2@example.com,User2,Second,2,6,Cleaner
-user3,user3@example.com,User3,Third,3,7,Coder
-user4,user4@example.com,User4,Fourth,4,8,Manager
