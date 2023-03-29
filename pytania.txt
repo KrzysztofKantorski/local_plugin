@@ -1,5 +1,0 @@
-pytania:
-- jak stworzyć tabelę.
-- jak połączyć utworzoną tabelę z bazą danych z pliku csv.
-- jak używać formapi.
-- ustawienie uprawnień dla danych użytkowników.
